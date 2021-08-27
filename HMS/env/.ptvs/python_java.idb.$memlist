@@ -1,0 +1,12 @@
+compile_java
+os
+__spec__
+__file__
+execute_java
+subprocess
+__name__
+STDOUT
+__builtins__
+__cached__
+PIPE
+__package__
